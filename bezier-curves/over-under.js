@@ -50,14 +50,4 @@ function run(){
 }
 
 
-function test(){
-  //sample lines for experimenting
-
-  //context.strokeStyle = randomColor();
-  context.beginPath();
-  context.moveTo(step,600);
-  context.quadraticCurveTo(step,300,600,600);
-  context.stroke();
-  context.closePath();}
-
 run();
