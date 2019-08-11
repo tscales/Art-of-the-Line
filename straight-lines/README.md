@@ -19,3 +19,6 @@ a collection of generative algorithms that draw straight lines.
 
 ### Triangle
 ![triange](https://github.com/tscales/Art-of-the-Line/blob/master/straight-lines/img/06-triangle.png)
+
+### Random fill
+![random-fill](https://github.com/tscales/Art-of-the-Line/blob/master/straight-lines/img/07-random-fill.png)
