@@ -21,7 +21,7 @@ palette = ["#4ECDC4","#F7FFF7", "#FF6B6B","#FFE66D"];
 step = 32;
 x = 0;
 function draw(){
-  for(y = 0; y < 600; y+= step){
+  for(y = 12; y < 600; y+= step){
     startFromLeft = Math.random() > 0.5;
 
     if(startFromLeft){
