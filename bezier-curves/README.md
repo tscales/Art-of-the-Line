@@ -7,6 +7,9 @@ a collection of generative algorithms that create curved lines
 ### hills
 ![hills](https://github.com/tscales/Art-of-the-Line/blob/master/bezier-curves/img/hills.png)
 
+## scales (hills alternate)
+![scales](https://github.com/tscales/Art-of-the-Line/blob/master/bezier-curves/img/scales.png)
+
 ### waves
 ![waves](https://github.com/tscales/Art-of-the-Line/blob/master/bezier-curves/img/waves.png)
 
