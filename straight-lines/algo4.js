@@ -45,10 +45,11 @@ function runalgo4(x,y){
   }
 }
 
-runalgo4(0,0);
 
 function run(n){
   for (n = n; n > 0; n--){
-    draw();
+    runalgo4(0,0);
   }
 }
+
+run(1);
