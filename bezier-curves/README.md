@@ -10,6 +10,9 @@ a collection of generative algorithms that create curved lines
 ### scales (hills alternate)
 ![scales](https://github.com/tscales/Art-of-the-Line/blob/master/bezier-curves/img/scales.png)
 
+###twirl
+![twirl](https://github.com/tscales/Art-of-the-Line/blob/master/bezier-curves/img/twirl.png)
+
 ### waves
 ![waves](https://github.com/tscales/Art-of-the-Line/blob/master/bezier-curves/img/waves.png)
 
